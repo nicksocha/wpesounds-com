@@ -16,6 +16,7 @@ First off, thank you for considering contributing to WPE Sounds. It's people lik
 
 > **_Step 1_**
 >
+> - [ ] Verify you clip is safe for work, family friendly, and non political.
 > - [ ] Record your new sound in the .wav format using your software of choice. We recommend [Audacity](<https://en.wikipedia.org/wiki/Audacity_(audio_editor)>) if you currently do not have software to record audio as it is free.
 > - [ ] Name your new audio file using Kebab Case `looks-like-this.wav`.
 > - [ ] Copy your new audio file to the sounds folder.
