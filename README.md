@@ -1,6 +1,6 @@
 ![WPE sounds logo](https://github.com/nicksocha/wpesounds-com/blob/master/images/wpesounds-com.jpg?raw=true)
 
-#### [WPE sounds.com](https://wpesounds.com) is a site [Nick Socha](https://nicksocha.com/) built for WP Elevation members to have some fun with.
+#### 🔥🔥 [WPE sounds.com](https://wpesounds.com) is a site [Nick Socha](https://nicksocha.com/) built for WP Elevation members to have some fun with. 🔥🔥
 
 ## About
 
@@ -20,15 +20,17 @@ Inspiration came from [JavaScript Drum Kit](https://www.youtube.com/watch?v=VuN8
 
 If you are curious about what goes on at WP Elevation or are interested in taking part in the cool stuff above, head over to the [WP Elevation Facebook Group](https://www.facebook.com/wpelevation/) or check out the [WP Elevation Blueprint Course](https://www.wpelevation.com/courses/) and join us.
 
-## Contribution
+## Contribution 👍
 
 If you would like to contribute to [WPE sounds.com](https://wpesounds.com) there are a few ways.
 
 1. Click on WPE Sounds in the footer and fill out the form to request a clip. **NOTE**: The maintainer of this site will make every effort to add new clips in a timely fashion but there is no guarantee your clip will be added due to time constraint. Please keep your clip suggestions safe for work, family friendly, and non political.
 
-2. Check out our [CONTRIBUTING.md](https://github.com/nicksocha/wpesounds-com/blob/master/CONTRIBUTING.md) page.
+2. Add your own sounds by checking out our [Contributing](https://github.com/nicksocha/wpesounds-com/blob/master/CONTRIBUTING.md) page.
 
-## Thanks
+3. Leave us [Feedback](https://wpesounds-com-feedback.paperform.co/)
+
+## Thanks 🤗
 
 Thanks! to [Troy Dean](https://troydean.com.au/) and everyone at [WP Elevation](https://www.wpelevation.com/) for all their hard work and dedication to helping and hosting a fantastic community.
 
