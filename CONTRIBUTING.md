@@ -37,8 +37,8 @@ First off, thank you for considering contributing to WPE Sounds. It's people lik
 > </div>
 > ```
 >
-> **_Example_**: below is the example code for a sound named Nick and uses the N key on the keyboard.
-> ![Nick Example](https://github.com/nicksocha/wpesounds-com/blob/master/images/nick-example.jpg?raw=true)
+> **_Example_**: below is the example code for a sound named Wicked Wookiee and uses the W key on the keyboard.
+> ![Wicked Wookiee Example](https://github.com/nicksocha/wpesounds-com/blob/master/images/wicked-wookiee-main-example.png?raw=true)
 
 > **_Step 4_**
 >
@@ -49,8 +49,8 @@ First off, thank you for considering contributing to WPE Sounds. It's people lik
 > <audio data-key="[KEYBOARD KEY]" src="sounds/[AUDIO FILE NAME].wav"></audio>
 > ```
 >
-> **_Example_**: below is the example code for a sound named Nick that uses the N key on the keyboard and has an audio file named nick.wav located in the sounds folder.
-> ![Nick Sound Example](https://github.com/nicksocha/wpesounds-com/blob/master/images/nick-sound-example.jpg?raw=true)
+> **_Example_**: below is the example code for a sound named Wicked Wookiee that uses the W key on the keyboard and has an audio file named `wicked-wookiee.wav` located in the sounds folder.
+> ![Wicked Wookiee Sound Example](https://github.com/nicksocha/wpesounds-com/blob/master/images/wicked-wookiee-sound-example.png?raw=true)
 
 ### Update README 📑
 
@@ -62,7 +62,7 @@ First off, thank you for considering contributing to WPE Sounds. It's people lik
 > ```
 >
 > **_Example_**: below is the example code to credit Troy Dean for a clip named "Troy Dean Here" from YouTube using the A key on the keyboard.
-> ![Nick Sound Example](https://github.com/nicksocha/wpesounds-com/blob/master/images/readme-example.jpg?raw=true)
+> ![README Example](https://github.com/nicksocha/wpesounds-com/blob/master/images/readme-example.png?raw=true)
 
 ## Our Responsibilities 🏋️‍♂️ 🏋️‍♀️
 

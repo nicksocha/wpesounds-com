@@ -205,10 +205,3 @@ window.onkeydown = event => {
 // Automatically update year in footer
 const yyyy = new Date().getFullYear();
 document.getElementById('year').innerHTML = `WPE sounds #${yyyy}`;
-
-// Paperform Form
-(function() {
-  const script = document.createElement('script');
-  script.src = 'https://paperform.co/__embed';
-  document.body.appendChild(script);
-})();
