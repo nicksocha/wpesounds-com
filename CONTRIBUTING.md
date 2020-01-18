@@ -16,15 +16,19 @@ First off, thank you for considering contributing to WPE Sounds. It's people lik
 
 > **_Step 1_**
 >
-> - [ ] Verify your clip is safe for work, family friendly, and non political.
-> - [ ] Record your new sound is in .wav format using your software of choice. We recommend [Audacity](<https://en.wikipedia.org/wiki/Audacity_(audio_editor)>) if you currently do not have software to record audio as it is free.
-> - [ ] Name your new audio file using Kebab Case `looks-like-this.wav`.
-> - [ ] Copy your new audio file to the sounds folder.
+> - [ ] Clone, Download, or Fork the [WPE Sounds Repository](https://github.com/nicksocha/wpesounds-com) from [GitHub](https://github.com/). Help can be found [here](https://help.github.com/en/github) if needed.
 
 > **_Step 2_**
 >
+> - [ ] Verify your clip is safe for work, family friendly, and non political.
+> - [ ] Record your new sound in the .wav format using your software of choice. We recommend [Audacity](<https://en.wikipedia.org/wiki/Audacity_(audio_editor)>) if you currently do not have software to record audio as it is free.
+> - [ ] Name your new audio file using Kebab Case `looks-like-this.wav`.
+> - [ ] Copy your new audio file to the sounds folder.
+
+> **_Step 3_**
+>
 > - [ ] Duplicate code below entering the new information between the brackets and removing all the brackets \[ \].
-> - [ ] New code from step 2 should be located in the `index.html` file within the `<!-- Main Section -->` in no special order.
+> - [ ] New code from step 3 should be located in the `index.html` file within the `<!-- Main Section -->` in no special order.
 >
 > ```html
 > <!-- [SOUND NAME] -->
@@ -33,30 +37,31 @@ First off, thank you for considering contributing to WPE Sounds. It's people lik
 > </div>
 > ```
 >
-> **_Example_**: below is the code for a sound named Nick and uses the N key on the keyboard.
+> **_Example_**: below is the example code for a sound named Nick and uses the N key on the keyboard.
 > ![Nick Example](https://github.com/nicksocha/wpesounds-com/blob/master/images/nick-example.jpg?raw=true)
 
-> **_Step 3_**
+> **_Step 4_**
 >
 > - [ ] Duplicate code below entering the new information between the brackets and removing all the brackets \[ \].
-> - [ ] New code from step 3 should be located in the `index.html` file within the `<!-- Audio Data Attributes Section -->` in the same order as the sounds are in the `<!-- Main Section -->`.
+> - [ ] New code from step 4 should be located in the `index.html` file within the `<!-- Audio Data Attributes Section -->` in the same order as the sounds are in the `<!-- Main Section -->`.
 >
 > ```html
 > <audio data-key="[KEYBOARD KEY]" src="sounds/[AUDIO FILE NAME].wav"></audio>
 > ```
 >
-> **_Example_**: below is the code for a sound named Nick that uses the N key on the keyboard and has an audio file named nick.wav located in the sounds folder.
+> **_Example_**: below is the example code for a sound named Nick that uses the N key on the keyboard and has an audio file named nick.wav located in the sounds folder.
 > ![Nick Sound Example](https://github.com/nicksocha/wpesounds-com/blob/master/images/nick-sound-example.jpg?raw=true)
 
 ### Update README 📑
 
 > - [ ] Duplicate code below entering the new information between the brackets and removing one set of brackets \[ \] from each.
+> - [ ] New README code should be added to the `README.md` file in the same order as the sounds are in the `<!-- Main Section -->`.
 >
 > ```markdown
 > - ([KEYBOARD KEY]) Credit to [[NAME]]([URL]) on [[SOURCE]]([URL]) for the "[SOUND NAME]" [clip]([URL]).
 > ```
 >
-> **_Example_**: below is the code to credit Troy Dean for a clip named "Troy Dean Here" from YouTube using the A key on the keyboard.
+> **_Example_**: below is the example code to credit Troy Dean for a clip named "Troy Dean Here" from YouTube using the A key on the keyboard.
 > ![Nick Sound Example](https://github.com/nicksocha/wpesounds-com/blob/master/images/readme-example.jpg?raw=true)
 
 ## Our Responsibilities 🏋️‍♂️ 🏋️‍♀️
