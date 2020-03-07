@@ -4,9 +4,9 @@ First off, thank you for considering contributing to WPE Sounds. It's people lik
 
 ## Pull Request Process 👨‍💻 👩‍💻
 
-1. Add a new sound per the standards below.
+1. Add a new sound per the standards [below](https://github.com/nicksocha/wpesounds-com/blob/master/CONTRIBUTING.md#our-standards-%EF%B8%8F).
 
-2. Update `README.md` file with changes per the standard below.
+2. Update `README.md` file with changes per the standard [below](https://github.com/nicksocha/wpesounds-com/blob/master/CONTRIBUTING.md#update-readme-).
 
 3. Pull requests can be submitted [here](https://github.com/nicksocha/wpesounds-com/pulls).
 

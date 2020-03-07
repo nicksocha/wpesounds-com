@@ -24,11 +24,11 @@ If you are curious about what goes on at WP Elevation or are interested in takin
 
 If you would like to contribute to [WPE sounds.com](https://wpesounds.com) there are a few ways.
 
-1. Click on WPE Sounds in the footer of [WPE sounds.com](https://wpesounds.com) or [here](http://orderform.wpesounds.com) and fill out the form to suggest a clip to be added. **NOTE**: The maintainer of WPE Sounds will make every effort to add new clips in a timely fashion. There are no guarantees your clip will be added. Please keep your clip suggestions safe for work, family friendly, and non political.
+1. Click [here](http://orderform.wpesounds.com) and submit a form to suggest a clip be added. **NOTE**: The maintainer of WPE Sounds will make every effort to add new clips in a timely fashion. There are no guarantees your clip will be added. Please keep your clip suggestions safe for work, family friendly, and non political.
 
 2. Add your own sounds by checking out our [Contributing](https://github.com/nicksocha/wpesounds-com/blob/master/CONTRIBUTING.md) page. This is probably the most likely way to get your clip added to WPE Sounds as it cuts down the time it takes the site maintainer to add your sound clip.
 
-3. Leave us [Feedback](https://wpesounds-com-feedback.paperform.co/). Your feedback will help improve WPE Sounds and we thank you in advance. 🙌
+3. Leave us [Feedback](https://www.cognitoforms.com/FormsURL/WPESoundsFeedback). Your feedback will help improve WPE Sounds and we thank you in advance. 🙌
 
 ## Thanks 🤗
 
